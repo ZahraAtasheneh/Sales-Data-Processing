@@ -16,7 +16,7 @@ This repository contains a Python script that automates data processing tasks fo
 git clone https://github.com/ZahraAtasheneh/Sales-Data-Processing.git
 
 2. Navigate to the project directory:
-cd sales-data-processing
+cd Sales-Data-Processing
 3. Install the required dependencies:
 pip install -r requirements.txt
 
