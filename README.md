@@ -13,7 +13,7 @@ This repository contains a Python script that automates data processing tasks fo
 
 1. Clone the repository:
 
-git clone https://github.com/ZahraAtasheneh/sales-data-processing.git
+git clone https://github.com/ZahraAtasheneh/Sales-Data-Processing.git
 
 2. Navigate to the project directory:
 cd sales-data-processing
